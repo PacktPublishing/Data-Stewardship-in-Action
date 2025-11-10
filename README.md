@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
-
 # Data Stewardship in Action
 
 <a href="https://www.packtpub.com/product/data-stewardship-in-action/9781837636594"><img src="https://m.media-amazon.com/images/I/71+SWM-VOHL._SL1500_.jpg" alt="Data Stewardship in Action" height="256px" align="right"></a>
