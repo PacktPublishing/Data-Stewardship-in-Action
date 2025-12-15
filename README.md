@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
 # Data Stewardship in Action
 
 <a href="https://www.packtpub.com/product/data-stewardship-in-action/9781837636594"><img src="https://m.media-amazon.com/images/I/71+SWM-VOHL._SL1500_.jpg" alt="Data Stewardship in Action" height="256px" align="right"></a>
