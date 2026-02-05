@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
+
 # Data Stewardship in Action
 
 <a href="https://www.packtpub.com/product/data-stewardship-in-action/9781837636594"><img src="https://m.media-amazon.com/images/I/71+SWM-VOHL._SL1500_.jpg" alt="Data Stewardship in Action" height="256px" align="right"></a>
